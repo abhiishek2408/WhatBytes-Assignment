@@ -1,4 +1,4 @@
-POST http://localhost:3000/api/doctors
+POST https://whatbytes-assignment-ds1d.onrender.com/api/doctors
 Content-Type: application/json
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMwNWNhOWU4LTI0NDQtNDY1ZC1iYjM5LWZjMDZmNTM1YTQ2NiIsImVtYWlsIjoidmlzaGVzaEBleGFtcGxlLmNvbSIsImlhdCI6MTc1NzA5NDE0OSwiZXhwIjoxNzU3NTI2MTQ5fQ.8gPhhnjcNQYbbz3X4Fr-_gmhWU2ZvVzZKtXmAZZoOf8
 
