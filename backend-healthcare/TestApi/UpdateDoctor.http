@@ -1,0 +1,7 @@
+PUT http://localhost:3000/api/doctors/150ac4fe-4a2e-4f33-b7b7-fc312a4331b6
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMwNWNhOWU4LTI0NDQtNDY1ZC1iYjM5LWZjMDZmNTM1YTQ2NiIsImVtYWlsIjoidmlzaGVzaEBleGFtcGxlLmNvbSIsImlhdCI6MTc1NzA5NDE0OSwiZXhwIjoxNzU3NTI2MTQ5fQ.8gPhhnjcNQYbbz3X4Fr-_gmhWU2ZvVzZKtXmAZZoOf8
+
+{
+  "phone": "9112233445"
+}

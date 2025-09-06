@@ -1,0 +1,68 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Logs
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.* 
+!.env.example   # keep a safe example file
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build and cache
+dist/
+build/
+.cache/
+.next/
+out/
+coverage/
+
+# Database & backups
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.dump
+*.backup
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swo
+*.bak
+
+# Python (if using Django/Flask somewhere)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.venv/
+venv/
+env/
+
+# Misc
+*.tgz
+*.tar.gz
+*.zip
